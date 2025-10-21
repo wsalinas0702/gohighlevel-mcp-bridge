@@ -9,8 +9,8 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://YOUR-DEPLOYED-URL/openapi.json",
-    "is_user_authenticated": false
+        "url": "https://gohighlevel-mcp-bridge.onrender.com/openapi.json",
+            "is_user_authenticated": false
   },
   "logo_url": "https://example.com/logo.png",
   "contact_email": "support@example.com",
